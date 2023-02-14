@@ -10,4 +10,4 @@
 
 <h2>RESULT</h2>
 
-![ScreenShot](https://user-images.githubusercontent.com/12657938/218884444-add029a4-3ab5-4eb8-8a7f-3b3ce4c644a3.png)
+![Screenshot_6](https://user-images.githubusercontent.com/12657938/218886145-c53c09be-836b-44c2-9642-eb1c0c10f00b.png)
