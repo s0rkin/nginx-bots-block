@@ -2,6 +2,11 @@
 <p>Some filtered bots, get 444 answer's on request's.</p>
 
 <h2>HOT TO USE</h2>
+<p>STEP 1</p>
+<p>in /etc/nginx/config.conf add:</p>
+<code>include /etc/nginx/bots.conf;</code>
+![image](https://github.com/s0rkin/nginx-bots-block/assets/12657938/0ebbf8b2-06f1-4f93-a44a-71b5a98062af)
+<p>STEP 2</p>
 <p>in your sites-available conf's add:</p>
 <code>include /etc/nginx/bot.conf;</code>
 
