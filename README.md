@@ -13,7 +13,7 @@
 <code>include /etc/nginx/rules.conf;</code>
 
 <h3>change 444 answer</h3>
-<code>edit in bot.conf return 444;</code>
+<code>edit in rules.conf return 444;</code>
 
 <h2>RESULT</h2>
 
