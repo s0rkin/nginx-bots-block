@@ -3,9 +3,11 @@
 
 <h2>HOT TO USE</h2>
 <p>STEP 1</p>
-<p>in /etc/nginx/config.conf add:</p>
+<p>in /etc/nginx/nginx.conf add:</p>
 <code>include /etc/nginx/bots.conf;</code>
-![image](https://github.com/s0rkin/nginx-bots-block/assets/12657938/0ebbf8b2-06f1-4f93-a44a-71b5a98062af)
+
+![Screenshot_3](https://github.com/s0rkin/nginx-bots-block/assets/12657938/d1729d9a-0ad3-4d48-a996-a9f58924b646)
+
 <p>STEP 2</p>
 <p>in your sites-available conf's add:</p>
 <code>include /etc/nginx/bot.conf;</code>
