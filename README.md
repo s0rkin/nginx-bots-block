@@ -6,7 +6,7 @@
 <p>in /etc/nginx/nginx.conf add:</p>
 <code>include /etc/nginx/bots.conf;</code>
 
-![Screenshot_3](https://github.com/s0rkin/nginx-bots-block/assets/12657938/d1729d9a-0ad3-4d48-a996-a9f58924b646)
+![Screenshot_4](https://github.com/s0rkin/nginx-bots-block/assets/12657938/4b35f369-26bc-4ee0-bdaf-0350f4df6f7b)
 
 <p>STEP 2</p>
 <p>in your sites-available conf's add:</p>
