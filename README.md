@@ -17,4 +17,5 @@
 
 <h2>RESULT</h2>
 
-![Screenshot_6](https://user-images.githubusercontent.com/12657938/218886145-c53c09be-836b-44c2-9642-eb1c0c10f00b.png)
+![image](https://github.com/s0rkin/nginx-bots-block/assets/12657938/0d214704-3361-4944-b35c-815b449c951a)
+
